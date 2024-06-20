@@ -13648,7 +13648,7 @@ textarea.form-control-lg {
   margin: var(--cnvs-section-margin) 0;
   padding: var(--cnvs-section-padding) 0;
   background-color: var(--cnvs-section-bg);
-  overflow: hidden;
+  /* overflow: hidden;*/ 
 }
 .section .container {
   z-index: 2;
