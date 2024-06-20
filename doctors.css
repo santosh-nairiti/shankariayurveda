@@ -102,6 +102,15 @@
 		width: max-content !important;
 	}
 }
+@media (max-width: 768px) {
+            .carousel-item {
+                height: auto; /* Ensure items are auto height */
+                overflow-y: auto; /* Enable vertical scrolling if content overflows */
+            }
+            .carousel-item .card-body {
+                height: auto; /* Ensure card-body adjusts with content */
+            }
+        }
 
 .bootstrap-select {
 	position: relative;
