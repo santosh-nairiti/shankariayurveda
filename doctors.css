@@ -48,7 +48,10 @@
 	.navbar-brand {
 		font-size: 12px;
 	}
-}
+	.break-point {
+                display: none;
+            }
+        }
 
 
 .dark {
