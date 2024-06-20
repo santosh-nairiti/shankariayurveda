@@ -102,7 +102,7 @@
 		width: max-content !important;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 360px) {
             .carousel-item {
                 height: auto; /* Ensure items are auto height */
                 overflow-y: auto; /* Enable vertical scrolling if content overflows */
